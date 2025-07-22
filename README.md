@@ -21,4 +21,4 @@ This repository contains beginner-friendly implementations of various **Supervis
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/23wh1a0552/supervised-ml-basics.git
+   git clone https://github.com/23wh1a0552/Supervised_ML.git
